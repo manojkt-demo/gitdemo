@@ -5,3 +5,4 @@ AWS certification
 containers
 dockers
 chef,puppet
+cloud computing like :EC2, S3, EBS, VPC, ELB 
