@@ -6,3 +6,4 @@ containers
 dockers
 chef,puppet
 cloud computing like :EC2, S3, EBS, VPC, ELB 
+Implementing Continuous Integration and deployment using various CI Tools like Jenkins, Bamboo
