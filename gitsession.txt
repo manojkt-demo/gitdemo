@@ -1,0 +1,7 @@
+welcome to git session in November
+
+Introduction to GIT
+AWS certification
+containers
+dockers
+chef,puppet
